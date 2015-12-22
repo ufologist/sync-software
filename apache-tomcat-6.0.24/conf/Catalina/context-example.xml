@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 将这个映射文件放置在localhost文件夹下面, 用于发布应用 -->
+<!-- 一般将该文件名修改为应用的名称, path对应tomcat的context, docBase为web应用的根目录 -->
+<Context path="/bootstrap" docBase="D:\SVN\bootstrap" reloadable="true" />
