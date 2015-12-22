@@ -1,0 +1,25 @@
+{
+    "documentation": "https://github.com/adobe/brackets/wiki/User-Key-Bindings",
+    "overrides": {
+        "Ctrl-M":           "cmd.addNextMatch",
+        "Ctrl-F":           "cmd.replace",
+        "Ctrl-H":           "cmd.replaceInFiles",
+        "Ctrl-Alt-Down":    "edit.duplicate",
+        "Ctrl-D":           "edit.deletelines",        
+        "Ctrl-Shift-C":     "edit.lineComment",
+        "Alt-Up":           "edit.lineUp",
+        "Alt-Down":         "edit.lineDown",
+        "Shift-Enter":      "edit.openLineBelow",
+        "Ctrl-Shift-Enter": "edit.openLineAbove",
+        "Alt-/":            "edit.showCodeHints",
+        "Ctrl-Shift-R":     "navigate.quickOpen",
+        "Ctrl-O":           "navigate.gotoDefinition",
+        "Ctrl-L":           "navigate.gotoLine",
+
+        "Alt-A":            "ggarek.alignit",
+        "Alt-Left":         "opensourceportfolio.navigation.backwards",
+        "Alt-Right":        "opensourceportfolio.navigation.forwards",
+        "Ctrl-Shift-F":     "me.drewh.jsbeautify",
+        "Ctrl-Shift-P":     "pflynn.jump-to-matching-brace"
+    }
+}
