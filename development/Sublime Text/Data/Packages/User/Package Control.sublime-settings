@@ -1,0 +1,39 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Base16 Color Schemes",
+		"Better JavaScript",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"CSS Auto Commenting",
+		"CSS Format",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"JSLint",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Navigation History",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Soda",
+		"ToggleQuotes"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	// [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
+	// [Sublime Text 2 设置文件详解](http://www.feelcss.com/sublime-text-2-settings.html)
+	// [Sublime Text unofficial documentation](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+	// 备选配色方案
+	// "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	// "color_scheme": "Packages/Base16 Color Schemes/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/User/Eclipse.tmTheme",
+	"detect_slow_plugins": false,
+	"font_face": "Consolas",
+	"font_size": 14.0,
+	"font_options":
+	[
+		// 让中文没有锯齿了, 非常推荐这个配置
+		"subpixel_antialias"
+		// 让字体更粗更清晰了, 中文还好, 但英文感觉有点太粗了不太适应, 看上去到处都是粗体似得
+		// , "directwrite"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"JSLint",
+		"JavaScript",
+		"EditorConfig",
+		"Markdown"
+	],
+	"rulers":
+	[
+		80
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	// 单词分隔符去掉破折号(-), 方便选取CSS class name
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
+}
