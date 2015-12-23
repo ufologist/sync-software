@@ -1,0 +1,6 @@
+#Mon Jun 28 08:57:27 GMT 2010
+eclipse.preferences.version=1
+org.eclipse.datatools.sqltools.plan.preferences.exportformat.pref_encoding=UTF-8
+org.eclipse.datatools.sqltools.plan.preferences.exportformat.defalut=false
+org.eclipse.datatools.sqltools.plan.preferences.exportformat.other.selection=6
+org.eclipse.datatools.sqltools.plan.preferences.exportformat.other=true

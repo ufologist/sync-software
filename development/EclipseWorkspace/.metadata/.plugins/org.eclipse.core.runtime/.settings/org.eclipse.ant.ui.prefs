@@ -1,0 +1,10 @@
+#Mon Jun 28 08:56:43 GMT 2010
+problem_tasks=ignore
+problem_properties=ignore
+useQuickDiffPrefPage=true
+useAnnotationsPrefPage=true
+formatter_tab_char=false
+problem_classpath=warning
+problem_imports=warning
+problem_security=warning
+eclipse.preferences.version=1
