@@ -1,7 +1,7 @@
 # 我的常用软件配置
 即我的(软件)工作环境.
 
-从 [sync-software](https://code.google.com/p/sync-software/) 移植过来.
+从 [sync-software](https://code.google.com/p/sync-software/) 转移过来.
 
 主要用于保存常用的软件配置, 将他们用版本化管理起来, 就能很方便的同步/还原这些配置了.
 
