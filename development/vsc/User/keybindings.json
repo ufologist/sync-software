@@ -1,0 +1,130 @@
+// Place your key bindings in this file to overwrite the defaults
+// 其他快捷键
+// "ctrl+shift+[" : "editor.fold"
+// "ctrl+shift+]" : "editor.unfold"
+[
+    // auto complete
+    {
+        "key": "alt+/",
+        "command": "editor.action.triggerSuggest",
+        "when": "editorTextFocus"
+    },
+    // goto line
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.gotoLine"
+    },
+    // outline
+    {
+        "key": "ctrl+o",
+        "command": "workbench.action.gotoSymbol"
+    },
+    // show symbols
+    {
+        "key": "ctrl+alt+o",
+        "command": "workbench.action.showAllSymbols"
+    },  
+    // open resource
+    {
+        "key": "ctrl+shift+r",
+        "command": "workbench.action.quickOpen"
+    },
+    // open command palette
+    {
+        "key": "ctrl+p",
+        "command": "workbench.action.showCommands"
+    },
+    // format
+    {
+        "key": "ctrl+shift+f",
+        "command": "editor.action.format",
+        "when": "editorTextFocus"
+    },
+    // new file
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.files.newUntitledFile"
+    },
+    // search in files
+    {
+        "key": "ctrl+h",
+        "command": "workbench.view.search"
+    },
+    // quick search
+    {
+        "key": "ctrl+k",
+        "command": "editor.action.moveSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    // match
+    {
+        "key": "ctrl+m",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    // delete lines
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.deleteLines",
+        "when": "editorTextFocus"
+    },
+    // copy one line down
+    {
+        "key": "ctrl+alt+down",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus"
+    },
+    // copy one line up
+    {
+        "key": "ctrl+alt+up",
+        "command": "editor.action.copyLinesUpAction",
+        "when": "editorTextFocus"
+    },
+    // new line
+    {
+        "key": "shift+enter",
+        "command": "editor.action.insertLineAfter",
+        "when": "editorTextFocus"
+    },
+    // goto bracket
+    {
+        "key": "ctrl+shift+p",
+        "command": "editor.action.jumpToBracket",
+        "when": "editorTextFocus"
+    },
+    // expand selection
+    {
+        "key": "ctrl+q",
+        "command": "editor.action.smartSelect.grow",
+        "when": "editorTextFocus"
+    },
+    // shrink selection
+    {
+        "key": "ctrl+shift+q",
+        "command": "editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
+    },
+    // comment
+    {
+        "key": "ctrl+shift+c",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus"
+    },
+    // block comment
+    {
+        "key": "ctrl+shift+c",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus"
+    },
+    // continue debug
+    {
+        "key": "f8",
+        "command": "workbench.action.debug.continue",
+        "when": "inDebugMode"
+    },
+    // preview markdown side
+    {
+        "key": "ctrl+alt+p",
+        "command": "workbench.action.markdown.openPreviewSideBySide"
+    }
+]

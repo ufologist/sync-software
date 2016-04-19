@@ -1,0 +1,14 @@
+// [Visual Studio Code Guide[Simple Chinese][简体中文]](https://github.com/i5ting/vsc)
+// Place your settings in this file to overwrite the default settings
+{
+    // "editor.fontFamily": "Consolas",
+    "editor.fontSize": 14,
+    "editor.rulers": [80],
+    "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+	"editor.wrappingColumn": 80,
+    "editor.selectionHighlight": false,
+
+    "git.enabled": false,
+    
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
+}
