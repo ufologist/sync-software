@@ -5,7 +5,7 @@
     "editor.fontSize": 14,
     "editor.rulers": [80],
     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
-	"editor.wrappingColumn": 80,
+    "editor.wrappingColumn": 100,
     "editor.selectionHighlight": false,
 
     "git.enabled": false,
