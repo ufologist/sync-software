@@ -7,6 +7,7 @@
     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
     "editor.wrappingColumn": 100,
     "editor.selectionHighlight": false,
+    "editor.renderIndentGuides": true,
 
     "git.enabled": false,
     
