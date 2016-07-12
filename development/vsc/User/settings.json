@@ -9,6 +9,9 @@
     "editor.selectionHighlight": false,
     "editor.renderIndentGuides": true,
 
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+
     "git.enabled": false,
     
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
