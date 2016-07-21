@@ -46,8 +46,10 @@
     { "keys": ["alt+q"], "command": "expand_selection", "args": {"to": "scope"} },
     // 借鉴浏览器中新建tab的快捷键用于新建文件, ctrl+shift+t 即撤销关闭重新打开
     { "keys": ["ctrl+t"], "command": "new_file" },
-    // 找出/选中多个的字符, 并添加光标, 这样就可以一并修改了
+    // 一个个找出/选中多个的字符, 并添加光标, 这样就可以一并修改了
     { "keys": ["ctrl+m"], "command": "find_under_expand" },
+    // 找出/选中所有匹配的多个的字符, 并添加光标, 这样就可以一并修改了
+    { "keys": ["ctrl+f2"], "command": "find_all_under" },
 
     /**
      * 适配eclipse快捷键
