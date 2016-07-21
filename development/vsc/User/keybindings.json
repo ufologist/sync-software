@@ -2,6 +2,11 @@
 // 其他快捷键
 // "ctrl+shift+[" : "editor.fold"
 // "ctrl+shift+]" : "editor.unfold"
+// ctrl+c ctrl+x 如果不选中，默认复制或剪切一整行
+// ctrl+f2 更改所有匹配项(给所有匹配文字添加光标, 然后就可以一并修改了)
+// shift+f8 跳转到下一个警告 ctrl+shift+m 查看所有警告
+// alt+click 添加一个光标
+// shift+alt 列快模式(UltraEdit)
 [
     // auto complete
     {
@@ -33,6 +38,8 @@
     {
         "key": "ctrl+p",
         "command": "workbench.action.showCommands"
+        // 打开命令面板后删除 ">" 输入 "?" 来查看可以执行什么命令
+        // workbench.action.quickOpen
     },
     // format
     {
@@ -56,7 +63,7 @@
         "command": "editor.action.moveSelectionToNextFindMatch",
         "when": "editorFocus"
     },
-    // match
+    // add selection to next find match
     {
         "key": "ctrl+m",
         "command": "editor.action.addSelectionToNextFindMatch",
@@ -126,5 +133,12 @@
     {
         "key": "ctrl+alt+p",
         "command": "workbench.action.markdown.openPreviewSideBySide"
+    },
+    // Undo cursor position
+    // TODO 只有 undo 没有 redo 不太方便
+    {
+        "key": "ctrl+alt+left",
+        "command": "cursorUndo",
+        "when": "editorTextFocus"
     }
 ]
