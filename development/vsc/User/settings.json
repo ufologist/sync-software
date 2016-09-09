@@ -1,11 +1,6 @@
 // [Visual Studio Code Guide[Simple Chinese][简体中文]](https://github.com/i5ting/vsc)
 // Place your settings in this file to overwrite the default settings
 // 
-// Extension
-// * vscode-icons
-// * HTML CSS Class Completion
-// * Add jsdoc comments
-//
 // JsDoc support in JavaScript
 // https://github.com/Microsoft/TypeScript/wiki/JsDoc-support-in-JavaScript
 // @type {string | boolean}
@@ -26,5 +21,13 @@
 
     "git.enabled": false,
     
-    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+
+    // Extension
+    // * HTML CSS Class Completion
+    // * Add jsdoc comments
+    // * autoprefixer
+    // 插件安装的位置: C:\Users\Administrator\.vscode\extensions
+    // 插件配置
+    "autoprefixer.browsers": ["last 2 versions", "> 5%"]
 }
