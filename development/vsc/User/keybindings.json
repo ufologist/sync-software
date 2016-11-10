@@ -44,8 +44,8 @@
     // format
     {
         "key": "ctrl+shift+f",
-        "command": "editor.action.format",
-        "when": "editorTextFocus"
+        "command": "editor.action.formatSelection",
+        "when": "editorHasDocumentFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly"
     },
     // new file
     {
