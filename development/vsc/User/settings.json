@@ -15,9 +15,12 @@
     "editor.wrappingColumn": 100,
     "editor.selectionHighlight": false,
     "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": "all",
 
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
+
+    "window.showFullPath": true,
 
     "git.enabled": false,
     

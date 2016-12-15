@@ -7,6 +7,10 @@
 // shift+f8 跳转到下一个警告 ctrl+shift+m 查看所有警告
 // alt+click 添加一个光标
 // shift+alt 列快模式(UltraEdit)
+// ctrl+` 打开终端
+// Sublime Text compatibility: editor.action.joinLines
+// Zen Mode: workbench.action.toggleZenMode
+// View Picker: workbench.action.quickOpenView
 [
     // auto complete
     {
@@ -122,6 +126,16 @@
         "key": "ctrl+shift+c",
         "command": "editor.action.blockComment",
         "when": "editorTextFocus"
+    },
+    // Uppercase
+    {
+        "key": "ctrl+shift+x",
+        "command": "editor.action.transformToUppercase"
+    },
+    // Lowercase
+    {
+        "key": "ctrl+shift+y",
+        "command": "editor.action.transformToLowercase"
     },
     // continue debug
     {
