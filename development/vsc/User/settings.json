@@ -7,25 +7,32 @@
 // @param arg1 {string}
 // @param arg1 {string=} An optional parameter
 // @return {string}
+//
+// Copy text with formatting - Copy code examples with full syntax highlighting.
 {
     // "editor.fontFamily": "Consolas",
     "editor.fontSize": 14,
     "editor.rulers": [80],
     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
-    "editor.wrappingColumn": 100,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100,
     "editor.selectionHighlight": false,
     "editor.renderIndentGuides": true,
     "editor.renderLineHighlight": "all",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": true,
+    "editor.dragAndDrop": false,
 
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
 
-    "window.showFullPath": true,
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
 
     "git.enabled": false,
     
-    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
-
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vs-seti"
     // Extension
     // * HTML CSS Class Completion
     // * Add jsdoc comments

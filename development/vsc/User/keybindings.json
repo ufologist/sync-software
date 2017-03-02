@@ -11,6 +11,7 @@
 // Sublime Text compatibility: editor.action.joinLines
 // Zen Mode: workbench.action.toggleZenMode
 // View Picker: workbench.action.quickOpenView
+// Shift+F9: editor.debug.action.toggleColumnBreakpoint
 [
     // auto complete
     {
