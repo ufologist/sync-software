@@ -28,7 +28,7 @@
 
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
 
-    "git.enabled": false,
+    "git.enabled": true,
     
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
     "workbench.colorTheme": "Visual Studio Dark",
