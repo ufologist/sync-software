@@ -23,16 +23,17 @@
     "editor.minimap.renderCharacters": true,
     "editor.dragAndDrop": false,
 
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vs-seti",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.closeOnFileDelete": false,
 
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
 
     "git.enabled": true,
     
-    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
-    "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.iconTheme": "vs-seti"
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
     // Extension
     // * HTML CSS Class Completion
     // * Add jsdoc comments
