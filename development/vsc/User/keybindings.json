@@ -6,6 +6,7 @@
 // ctrl+f2 更改所有匹配项(给所有匹配文字添加光标, 然后就可以一并修改了)
 // shift+f8 跳转到下一个警告 ctrl+shift+m 查看所有警告
 // alt+click 添加一个光标
+// ctrl+shift+alt+down ctrl+shift+alt+up 列选择
 // shift+alt 列快模式(UltraEdit)
 // ctrl+` 打开终端
 // Sublime Text compatibility: editor.action.joinLines
@@ -73,6 +74,8 @@
         "key": "ctrl+m",
         "command": "editor.action.addSelectionToNextFindMatch",
         "when": "editorFocus"
+        // 一次性选中所有匹配项
+        // "key": "ctrl+shift+l", "command": "editor.action.selectHighlights"
     },
     // delete lines
     {
@@ -109,6 +112,8 @@
         "key": "ctrl+q",
         "command": "editor.action.smartSelect.grow",
         "when": "editorTextFocus"
+        // 收缩选中区域
+        // "key": "shift+alt+left", "command": "editor.action.smartSelect.shrink"
     },
     // shrink selection
     {
