@@ -1,0 +1,402 @@
+{
+    "前端": [
+        {
+            "Name": "Sublime Text",
+            "TargetPath": "E:\\_Cloud\\Google\\Code\\sync-software\\development\\Sublime Text\\sublime_text.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Code\\sync-software\\development\\Sublime Text\\sublime_text.exe",
+            "Arguments": "",
+            "Count": 363
+        },
+        {
+            "Name": "Brackets",
+            "TargetPath": "E:\\_Cloud\\Google\\Code\\sync-software\\development\\Brackets\\BracketsPortable.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Code\\sync-software\\development\\Brackets\\BracketsPortable.exe",
+            "Arguments": "",
+            "Count": 2
+        },
+        {
+            "Name": "vscode",
+            "TargetPath": "E:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "IconLocation": "E:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "Arguments": "",
+            "Count": 363
+        },
+        {
+            "Name": "Chrome",
+            "TargetPath": "E:\\_Cloud\\Tencent\\QQMail\\GoogleChromePortable\\GoogleChromePortable.exe",
+            "IconLocation": "E:\\_Cloud\\Tencent\\QQMail\\GoogleChromePortable\\GoogleChromePortable.exe",
+            "Arguments": "",
+            "Count": 304
+        },
+        {
+            "Name": "ChromeDev",
+            "TargetPath": "E:\\_Cloud\\Browser\\GoogleChromeDev\\GoogleChromePortable.exe",
+            "IconLocation": "E:\\_Cloud\\Browser\\GoogleChromeDev\\GoogleChromePortable.exe",
+            "Arguments": "--disable-web-security",
+            "Count": 333
+        },
+        {
+            "Name": "QQ\u6D4F\u89C8\u5668",
+            "TargetPath": "E:\\Program Files\\Tencent\\QQBrowser\\qqbrowser.exe",
+            "IconLocation": "E:\\Program Files\\Tencent\\QQBrowser\\qqbrowser.exe",
+            "Arguments": "-fixlaunch=0",
+            "Count": 370
+        },
+        {
+            "Name": "F5",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\f5\\f5.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\f5\\f5.exe",
+            "Arguments": "",
+            "Count": 1
+        },
+        {
+            "Name": "CssGaga",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\CssGaga\\CssGaga.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\CssGaga\\CssGaga.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Node.js",
+            "TargetPath": "E:\\Program Files\\nodejs\\node.exe",
+            "IconLocation": "E:\\Program Files\\nodejs\\node.exe",
+            "Arguments": "",
+            "Count": 19
+        },
+        {
+            "Name": "PxCook",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\PxCook\\PxCook.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\PxCook\\PxCook.exe",
+            "Arguments": "",
+            "Count": 23
+        },
+        {
+            "Name": "Avocode",
+            "TargetPath": "C:\\Users\\Administrator\\AppData\\Local\\avocode\\app-2.6.0\\Avocode.exe",
+            "IconLocation": "C:\\Users\\Administrator\\AppData\\Local\\avocode\\app-2.6.0\\Avocode.exe",
+            "Arguments": "",
+            "Count": 4
+        },
+        {
+            "Name": "Mark Man",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\Mark Man\\Mark Man.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\Mark Man\\Mark Man.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Assistor PS",
+            "TargetPath": "E:\\Program Files\\witstudio\\Assistor PS\\WIT.Assistor.Lite.exe",
+            "IconLocation": "E:\\Program Files\\witstudio\\Assistor PS\\WIT.Assistor.Lite.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Photoshop",
+            "TargetPath": "E:\\Program Files\\Adobe\\Adobe Photoshop CC 2014\\Photoshop.exe",
+            "IconLocation": "E:\\Program Files\\Adobe\\Adobe Photoshop CC 2014\\Photoshop.exe",
+            "Arguments": "",
+            "Count": 35
+        },
+        {
+            "Name": "Mockplus",
+            "TargetPath": "E:\\Program Files\\Mockplus2\\Mockplus.exe",
+            "IconLocation": "E:\\Program Files\\Mockplus2\\Mockplus.exe",
+            "Arguments": "",
+            "Count": 6
+        },
+        {
+            "Name": "IETester",
+            "TargetPath": "E:\\Program Files\\Core Services\\IETester\\IETester.exe",
+            "IconLocation": "E:\\Program Files\\Core Services\\IETester\\IETester.exe",
+            "Arguments": "",
+            "Count": 2
+        },
+        {
+            "Name": "Fiddler",
+            "TargetPath": "E:\\Program Files\\Fiddler\\Fiddler.exe",
+            "IconLocation": "E:\\Program Files\\Fiddler\\Fiddler.exe",
+            "Arguments": "",
+            "Count": 57
+        },
+        {
+            "Name": "WinHTTrack",
+            "TargetPath": "E:\\Program Files\\WinHTTrack\\WinHTTrack.exe",
+            "IconLocation": "E:\\Program Files\\WinHTTrack\\WinHTTrack.exe",
+            "Arguments": "",
+            "Count": 0
+        }
+    ],
+    "开发": [
+        {
+            "Name": "Uedit32",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\UltraEdit-32\\Uedit32.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\UltraEdit-32\\Uedit32.exe",
+            "Arguments": "",
+            "Count": 266
+        },
+        {
+            "Name": "\u5FAE\u4FE1devtool",
+            "TargetPath": "E:\\Program Files\\Tencent\\\u5FAE\u4FE1web\u5F00\u53D1\u8005\u5DE5\u5177\\\u5FAE\u4FE1web\u5F00\u53D1\u8005\u5DE5\u5177.exe",
+            "IconLocation": "E:\\Program Files\\Tencent\\\u5FAE\u4FE1web\u5F00\u53D1\u8005\u5DE5\u5177\\\u5FAE\u4FE1web\u5F00\u53D1\u8005\u5DE5\u5177.exe",
+            "Arguments": "",
+            "Count": 46
+        },
+        {
+            "Name": "eclipse",
+            "TargetPath": "E:\\_Cloud\\IDE\\eclipse\\eclipse.exe",
+            "IconLocation": "E:\\_Cloud\\IDE\\eclipse\\eclipse.exe",
+            "Arguments": "",
+            "Count": 11
+        },
+        {
+            "Name": "Android Studio",
+            "TargetPath": "E:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
+            "IconLocation": "E:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
+            "Arguments": "",
+            "Count": 3
+        },
+        {
+            "Name": "squirrel-sql",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\squirrel-sql-3.1.2-optional\\squirrel-sql-3.1.2\\squirrel-sql.bat",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\squirrel-sql-3.1.2-optional\\squirrel-sql-3.1.2\\squirrel-sql.bat",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "AAuto",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\AAuto\\AAuto Quicker.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\AAuto\\AAuto Quicker.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Sqliteman",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\SqlitemanPortable\\SqlitemanPortable.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\SqlitemanPortable\\SqlitemanPortable.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "ConEmu",
+            "TargetPath": "E:\\_Cloud\\Google\\Code\\sync-software\\ConEmu\\ConEmu64.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Code\\sync-software\\ConEmu\\ConEmu64.exe",
+            "Arguments": "",
+            "Count": 10
+        },
+        {
+            "Name": "MobaXterm",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\ssh\\MobaXterm.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\ssh\\MobaXterm.exe",
+            "Arguments": "",
+            "Count": 22
+        },
+        {
+            "Name": "mtputty",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\ssh\\mtputty.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\ssh\\mtputty.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "SourceTree",
+            "TargetPath": "E:\\Program Files\\Atlassian\\SourceTree\\SourceTree.exe",
+            "IconLocation": "E:\\Program Files\\Atlassian\\SourceTree\\SourceTree.exe",
+            "Arguments": "",
+            "Count": 4
+        },
+        {
+            "Name": "Wireshark",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\WiresharkPortable\\WiresharkPortable.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\WiresharkPortable\\WiresharkPortable.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "netmon",
+            "TargetPath": "E:\\Program Files\\Microsoft Network Monitor 3\\netmon.exe",
+            "IconLocation": "E:\\Program Files\\Microsoft Network Monitor 3\\netmon.exe",
+            "Arguments": "",
+            "Count": 2
+        },
+        {
+            "Name": "\u6309\u952E\u7CBE\u7075",
+            "TargetPath": "E:\\Program Files\\\u6309\u952E\u7CBE\u7075\\\u6309\u952E\u7CBE\u7075\u624B\u673A\u52A9\u624B\\\u6309\u952E\u7CBE\u7075\u624B\u673A\u52A9\u624B.exe",
+            "IconLocation": "E:\\Program Files\\\u6309\u952E\u7CBE\u7075\\\u6309\u952E\u7CBE\u7075\u624B\u673A\u52A9\u624B\\\u6309\u952E\u7CBE\u7075\u624B\u673A\u52A9\u624B.exe",
+            "Arguments": "",
+            "Count": 7
+        }
+    ],
+    "工具": [
+        {
+            "Name": "notepad",
+            "TargetPath": "C:\\Windows\\system32\\notepad.exe",
+            "IconLocation": "C:\\Windows\\system32\\notepad.exe",
+            "Arguments": "",
+            "Count": 1
+        },
+        {
+            "Name": "mspaint",
+            "TargetPath": "C:\\Windows\\system32\\mspaint.exe",
+            "IconLocation": "C:\\Windows\\system32\\mspaint.exe",
+            "Arguments": "",
+            "Count": 10
+        },
+        {
+            "Name": "calc",
+            "TargetPath": "C:\\Windows\\system32\\calc.exe",
+            "IconLocation": "C:\\Windows\\system32\\calc.exe",
+            "Arguments": "",
+            "Count": 1
+        },
+        {
+            "Name": "Skitch",
+            "TargetPath": "E:\\Program Files\\Evernote\\Skitch\\Skitch.exe",
+            "IconLocation": "E:\\Program Files\\Evernote\\Skitch\\Skitch.exe",
+            "Arguments": "",
+            "Count": 25
+        },
+        {
+            "Name": "XMind",
+            "TargetPath": "E:\\_Cloud\\Tencent\\QQMail\\xmind-portable\\XMind_Windows\\xmind.exe",
+            "IconLocation": "E:\\_Cloud\\Tencent\\QQMail\\xmind-portable\\XMind_Windows\\xmind.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Calibre",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\Calibre Portable\\calibre-portable.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\Calibre Portable\\calibre-portable.exe",
+            "Arguments": "",
+            "Count": 3
+        },
+        {
+            "Name": "Foxmail",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\Foxmail\\Foxmail.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\Foxmail\\Foxmail.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Evernote",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\EvernotePortable\\EvernotePortable.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\EvernotePortable\\EvernotePortable.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "iTools",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\iTools\\iTools.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\iTools\\iTools.exe",
+            "Arguments": "",
+            "Count": 1
+        },
+        {
+            "Name": "GifCam",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\GifCam.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\GifCam.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Wink",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\Wink\\Wink.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\Wink\\Wink.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "CommitMonitor",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\CommitMonitor\\CommitMonitor.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\CommitMonitor\\CommitMonitor.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "E",
+            "TargetPath": "C:\\Windows\\system32\\cmd.exe",
+            "IconLocation": "C:\\Windows\\system32\\cmd.exe",
+            "Arguments": "/k cd E:\\_Cloud\\Google\\Gmail && e:",
+            "Count": 4
+        },
+        {
+            "Name": "procexp",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\SysinternalsSuite\\procexp.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\SysinternalsSuite\\procexp.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "\u8BA1\u7B97\u673A",
+            "TargetPath": "E:\\_Cloud\\Google\\Code\\sync-software\\Rolan\\Rolan.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Code\\sync-software\\Rolan\\Rolan.exe",
+            "Arguments": "drives",
+            "Count": 0
+        },
+        {
+            "Name": "SwitchHosts!",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\SwitchHosts\\SwitchHosts!.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\SwitchHosts\\SwitchHosts!.exe",
+            "Arguments": "",
+            "Count": 64
+        }
+    ],
+    "其他": [
+        {
+            "Name": "KOF97",
+            "TargetPath": "E:\\_Cloud\\Tencent\\QQMail\\KOF97(Perfect)\\Perfect148XP.exe",
+            "IconLocation": "E:\\_Cloud\\Tencent\\QQMail\\KOF97(Perfect)\\Perfect148XP.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "VirtuaNes",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\Nes\\VirtuaNes.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\Nes\\VirtuaNes.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "ZSNESW",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\Nes\\Mario\\ZSNESW.EXE",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\Nes\\Mario\\ZSNESW.EXE",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "\u767E\u6218\u5929\u866B",
+            "TargetPath": "E:\\_Cloud\\Google\\Gmail\\worms\\\u5E9F\u5BA2\u767E\u6218\u5929\u866B\u7CBE\u7B80\u7248.exe",
+            "IconLocation": "E:\\_Cloud\\Google\\Gmail\\worms\\\u5E9F\u5BA2\u767E\u6218\u5929\u866B\u7CBE\u7B80\u7248.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "\u683C\u5F0F\u5DE5\u5382",
+            "TargetPath": "E:\\Program Files\\FormatFactory\\FormatFactory.exe",
+            "IconLocation": "E:\\Program Files\\FormatFactory\\FormatFactory.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "\u767E\u5EA6\u7F51\u76D8",
+            "TargetPath": "E:\\Program Files\\baidu\\BaiduYunGuanjia\\baidunetdisk.exe",
+            "IconLocation": "E:\\Program Files\\baidu\\BaiduYunGuanjia\\baidunetdisk.exe",
+            "Arguments": "",
+            "Count": 1
+        },
+        {
+            "Name": "\u5FEB\u7528\u82F9\u679C\u52A9\u624B",
+            "TargetPath": "E:\\Program Files\\kuaiyong\\\u5FEB\u7528\u82F9\u679C\u52A9\u624B.exe",
+            "IconLocation": "E:\\Program Files\\kuaiyong\\\u5FEB\u7528\u82F9\u679C\u52A9\u624B.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "\u7231\u526A\u8F91",
+            "TargetPath": "E:\\Program Files\\MediaEditor\\MediaEditor.exe",
+            "IconLocation": "E:\\Program Files\\MediaEditor\\MediaEditor.exe",
+            "Arguments": "",
+            "Count": 0
+        }
+    ]
+}
