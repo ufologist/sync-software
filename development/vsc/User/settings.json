@@ -33,12 +33,20 @@
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
 
     "git.enabled": true,
-    
+
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
     // Type checking for JavaScript files
     // 可以在这里统一控制, 或者在单个文件中使用这些注释
     // @ts-check // @ts-nocheck // @ts-ignore
-    "javascript.implicitProjectConfig.checkJs": false
+    "javascript.implicitProjectConfig.checkJs": false,
+
+    "window.zoomLevel": 0,
+
+    "emmet.preferences": {
+        "bem.elementSeparator": "__",
+        "bem.modifierSeparator": "--"
+    }
+
     // Extension
     // * HTML CSS Class Completion
     // * Add jsdoc comments
