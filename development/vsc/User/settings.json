@@ -50,6 +50,7 @@
     // Extension
     // * HTML CSS Class Completion
     // * Add jsdoc comments
-    // 插件安装的位置: C:\Users\Administrator\.vscode\extensions
+    // * vetur(Vue)
+    // 插件安装的位置: C:\Users\{用户}\.vscode\extensions
     // 插件配置
 }

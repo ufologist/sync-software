@@ -9,6 +9,8 @@
 // ctrl+shift+alt+down ctrl+shift+alt+up 列选择
 // shift+alt 列快模式(UltraEdit)
 // ctrl+` 打开终端
+// ctrl+/ 注释一行
+// f7 goto next / previous symbol highlight
 // Sublime Text compatibility: editor.action.joinLines
 // Zen Mode: workbench.action.toggleZenMode
 // View Picker: workbench.action.quickOpenView
@@ -121,12 +123,6 @@
         "command": "editor.action.smartSelect.shrink",
         "when": "editorTextFocus"
     },
-    // comment
-    {
-        "key": "ctrl+shift+c",
-        "command": "editor.action.commentLine",
-        "when": "editorTextFocus"
-    },
     // block comment
     {
         "key": "ctrl+shift+c",
@@ -149,16 +145,16 @@
         "command": "workbench.action.debug.continue",
         "when": "inDebugMode"
     },
-    // preview markdown side
-    {
-        "key": "ctrl+alt+p",
-        "command": "workbench.action.markdown.openPreviewSideBySide"
-    },
     // Undo cursor position
     // TODO 只有 undo 没有 redo 不太方便
     {
         "key": "ctrl+alt+left",
         "command": "cursorUndo",
         "when": "editorTextFocus"
+    },
+    // show error
+    {
+        "key": "ctrl+e",
+        "command": "workbench.action.showErrorsWarnings"
     }
 ]
