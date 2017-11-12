@@ -76,9 +76,19 @@
         "key": "ctrl+m",
         "command": "editor.action.addSelectionToNextFindMatch",
         "when": "editorFocus"
-        // 一次性选中所有匹配项
-        // "key": "ctrl+shift+l", "command": "editor.action.selectHighlights"
     },
+    // 一次性选中所有匹配项
+    {
+        "key": "ctrl+f2",
+        "command": "editor.action.selectHighlights",
+        "when": "editorFocus"
+    },
+    // reindent, 目前是直接 reindent 整个文件而不是我选中的部分内容
+    // {
+    //     "key": "ctrl+i",
+    //     "command": "editor.action.reindentlines",
+    //     "when": "editorFocus"
+    // },
     // delete lines
     {
         "key": "ctrl+d",
