@@ -21,7 +21,6 @@
 	"ignored_packages":
 	[
 		"JSLint",
-		"JavaScript",
 		"EditorConfig",
 		"Markdown"
 	],
