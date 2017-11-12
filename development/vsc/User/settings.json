@@ -45,8 +45,8 @@
     "emmet.preferences": {
         "bem.elementSeparator": "__",
         "bem.modifierSeparator": "--"
-    }
-
+    },
+    "workbench.panel.location": "bottom"
     // Extension
     // * HTML CSS Class Completion
     // * Add jsdoc comments

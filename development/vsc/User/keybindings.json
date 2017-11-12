@@ -156,5 +156,14 @@
     {
         "key": "ctrl+e",
         "command": "workbench.action.showErrorsWarnings"
+    },
+    // 切换编辑的文件
+    {
+        "key": "ctrl+tab",
+        "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "ctrl+shift+tab",
+        "command": "workbench.action.previousEditor"
     }
 ]
