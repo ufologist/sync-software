@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"CSS Format",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"JSLint",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Soda",
+		"ToggleQuotes"
+	]
+}
