@@ -94,6 +94,9 @@
     { "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "find_in_files"} },
     // 快速注释
     { "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": false } },
+    // 光标回退(本来想设置成 alt+left 但是不生效啊)
+    { "keys": ["ctrl+alt+left"], "command": "jump_back" },
+    { "keys": ["ctrl+alt+right"], "command": "jump_forward" },
 
     // plugin配置
     { "keys": ["alt+a"], "command": "alignment" },
