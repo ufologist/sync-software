@@ -11,16 +11,16 @@
 // Copy text with formatting - Copy code examples with full syntax highlighting.
 {
     // "editor.fontFamily": "Consolas",
-    "editor.fontSize": 14,
+    // "editor.fontSize": 14,
     "editor.rulers": [80],
     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 100,
     "editor.selectionHighlight": false,
-    "editor.renderIndentGuides": true,
+    // "editor.renderIndentGuides": true,
     "editor.renderLineHighlight": "all",
-    "editor.minimap.enabled": true,
-    "editor.minimap.renderCharacters": true,
+    // "editor.minimap.enabled": true,
+    // "editor.minimap.renderCharacters": true,
     "editor.dragAndDrop": false,
     "editor.autoIndent": false,
 
@@ -33,6 +33,19 @@
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
 
     "git.enabled": true,
+    "git.path": "E:/Program Files/Git/bin/git.exe",
+
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.idSelector": "warning",
+    "css.lint.important": "warning",
+    "css.lint.universalSelector": "warning",
+    "css.lint.zeroUnits": "warning",
+
+    "less.lint.duplicateProperties": "warning",
+    "less.lint.idSelector": "warning",
+    "less.lint.important": "warning",
+    "less.lint.universalSelector": "warning",
+    "less.lint.zeroUnits": "warning",
 
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
     // Type checking for JavaScript files
@@ -40,13 +53,10 @@
     // @ts-check // @ts-nocheck // @ts-ignore
     "javascript.implicitProjectConfig.checkJs": false,
 
-    "window.zoomLevel": 0,
-
     "emmet.preferences": {
         "bem.elementSeparator": "__",
         "bem.modifierSeparator": "--"
-    },
-    "workbench.panel.location": "bottom"
+    }
     // Extension
     // * HTML CSS Class Completion
     // * Add jsdoc comments
