@@ -56,11 +56,17 @@
     "emmet.preferences": {
         "bem.elementSeparator": "__",
         "bem.modifierSeparator": "--"
-    }
+    },
+
+    "breadcrumbs.enabled": true,
+
     // Extension
+    // * Vetur
+    // * cssrem
     // * HTML CSS Class Completion
     // * Add jsdoc comments
-    // * vetur(Vue)
     // 插件安装的位置: C:\Users\{用户}\.vscode\extensions
     // 插件配置
+    "cssrem.rootFontSize": 75,
+    "vetur.format.defaultFormatter.html": "js-beautify-html"
 }
