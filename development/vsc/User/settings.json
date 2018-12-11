@@ -16,7 +16,7 @@
     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 100,
-    "editor.selectionHighlight": false,
+    "editor.selectionHighlight": true,
     // "editor.renderIndentGuides": true,
     "editor.renderLineHighlight": "all",
     // "editor.minimap.enabled": true,
@@ -24,12 +24,16 @@
     "editor.dragAndDrop": false,
     "editor.autoIndent": false,
 
+    "breadcrumbs.enabled": true,
+
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.iconTheme": "vs-seti",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.editor.closeOnFileDelete": false,
+    "workbench.editor.highlightModifiedTabs": false,
 
+    // "window.titleBarStyle": "custom",
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
 
     "git.enabled": true,
@@ -52,21 +56,49 @@
     // 可以在这里统一控制, 或者在单个文件中使用这些注释
     // @ts-check // @ts-nocheck // @ts-ignore
     "javascript.implicitProjectConfig.checkJs": false,
+    "javascript.suggest.completeFunctionCalls": true,
 
     "emmet.preferences": {
         "bem.elementSeparator": "__",
         "bem.modifierSeparator": "--"
     },
 
-    "breadcrumbs.enabled": true,
+    "files.associations": {
+        "*.wxp": "vue",
+        "*.wxss": "less",
+        "*.wxa": "vue",
+        "*.wxc": "vue"
+    },
 
     // Extension
-    // * Vetur
-    // * cssrem
-    // * HTML CSS Class Completion
-    // * Add jsdoc comments
+    // - Better Comments
+    // - Bookmarks
+    // - Code Spell Checker
+    // - cssrem
+    // - Project Manager
+    // - SonarLint
+    // - Todo Tree
+    // - Vetur
+    // - GitLens
+    // - markdownlint
+    // - HTML CSS Class Completion
+    // - Add jsdoc comments
     // 插件安装的位置: C:\Users\{用户}\.vscode\extensions
     // 插件配置
     "cssrem.rootFontSize": 75,
-    "vetur.format.defaultFormatter.html": "js-beautify-html"
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "sonarlint.ls.javaHome": "E:/Program Files/Java/jre",
+    "sonarlint.connectedMode.servers": [{
+        "serverId": "",
+        "serverUrl": "",
+        // "organizationKey": "",
+        "token": ""
+    }],
+    "sonarlint.connectedMode.project": {
+        "serverId": "",
+        "projectKey": ""
+    }
 }
