@@ -23,6 +23,7 @@
     // "editor.minimap.renderCharacters": true,
     "editor.dragAndDrop": false,
     "editor.autoIndent": false,
+    "editor.cursorSmoothCaretAnimation": true,
 
     "breadcrumbs.enabled": true,
 
@@ -100,5 +101,13 @@
     "sonarlint.connectedMode.project": {
         "serverId": "",
         "projectKey": ""
+    },
+    "todo-tree.defaultHighlight": {
+        "foreground": "green",
+        "type": "none"
+    },
+    "todo-tree.customHighlight": {
+        "TODO": {},
+        "FIXME": {}
     }
 }
