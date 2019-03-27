@@ -76,6 +76,8 @@
     // - Bookmarks
     // - Code Spell Checker
     // - cssrem
+    // - Markdown PDF
+    // - Prettier
     // - Project Manager
     // - SonarLint
     // - Todo Tree
@@ -109,5 +111,9 @@
     "todo-tree.customHighlight": {
         "TODO": {},
         "FIXME": {}
-    }
+    },
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.bracketSpacing": false,
+    "prettier.jsxBracketSameLine": true
 }
