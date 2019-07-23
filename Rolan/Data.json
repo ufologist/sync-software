@@ -1,22 +1,10 @@
 {
     "前端": [
         {
-            "Name": "Sublime Text"
-        },
-        {
-            "Name": "Brackets"
-        },
-        {
             "Name": "vscode"
         },
         {
-            "Name": "Chrome"
-        },
-        {
-            "Name": "ChromeDev"
-        },
-        {
-            "Name": "QQ浏览器"
+            "Name": "Sublime Text"
         },
         {
             "Name": "微信devtool"
@@ -25,10 +13,19 @@
             "Name": "Postman"
         },
         {
-            "Name": "Charles"
+            "Name": "QQ浏览器"
+        },
+        {
+            "Name": "Chrome"
+        },
+        {
+            "Name": "ChromeDev"
         },
         {
             "Name": "Fiddler"
+        },
+        {
+            "Name": "Charles"
         },
         {
             "Name": "Node.js"
@@ -85,9 +82,6 @@
         },
         {
             "Name": "Sqliteman"
-        },
-        {
-            "Name": "squirrel-sql"
         },
         {
             "Name": "ossbrowser"
@@ -184,9 +178,6 @@
             "Name": "ScreenToGif"
         },
         {
-            "Name": "GifCam"
-        },
-        {
             "Name": "Wink"
         },
         {
@@ -237,9 +228,6 @@
             "Name": "百度网盘"
         },
         {
-            "Name": "快用苹果助手"
-        },
-        {
             "Name": "爱剪辑"
         },
         {
@@ -256,9 +244,6 @@
         },
         {
             "Name": "FSCapture"
-        },
-        {
-            "Name": "CommitMonitor"
         },
         {
             "Name": "PDF24"
