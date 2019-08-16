@@ -24,6 +24,7 @@
     "editor.dragAndDrop": false,
     "editor.autoIndent": false,
     "editor.cursorSmoothCaretAnimation": true,
+    "editor.renderWhitespace": "selection",
 
     "breadcrumbs.enabled": true,
 
